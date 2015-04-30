@@ -2,3 +2,4 @@
 /test/build/
 /test/fixtures/ignore/
 /test/fixtures/watch/
+npm-debug.log
